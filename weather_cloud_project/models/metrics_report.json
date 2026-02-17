@@ -1,0 +1,22 @@
+{
+  "cloud_classification": {
+    "task": "cloud_classification",
+    "best_model": "knn_k7",
+    "best_accuracy": 0.887,
+    "candidate_accuracies": {
+      "gaussian_nb": 0.8488,
+      "knn_k7": 0.887,
+      "knn_k11": 0.8854
+    }
+  },
+  "weather_forecast": {
+    "task": "weather_forecast",
+    "best_model": "knn_k11",
+    "best_accuracy": 0.8869,
+    "candidate_accuracies": {
+      "gaussian_nb": 0.817,
+      "knn_k7": 0.8819,
+      "knn_k11": 0.8869
+    }
+  }
+}
