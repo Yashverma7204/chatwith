@@ -1,0 +1,13 @@
+{
+  "weather_forecasting": {
+    "best_model": "linear_regression_gd",
+    "r2": 0.31876016128776175,
+    "mae": 5.914128270040158,
+    "rmse": 6.963819639937969
+  },
+  "cloud_classification": {
+    "best_model": "rule_based_classifier",
+    "accuracy": 0.9632142857142857,
+    "f1_macro": 0.5337734352771674
+  }
+}
